@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Reza Shirkavand and I'm a Software Engineering B.Sc. graduate from Sharif University of Technology. I am currently a Data Scientist at Netbina Advertising Agency.
+  My name is Reza Shirkavand and I'm a Software Engineering B.Sc. graduate from Sharif University of Technology. I am currently a Data Scientist at Netbina Advertising Agency.
 
   My Research Interests are Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and Optimization.
 
