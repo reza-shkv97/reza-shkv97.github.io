@@ -9,7 +9,7 @@ version: 2
 name: Reza Shirkavand
 title: Software Engineering Student at Sharif University of Technology, Tehran, Iran.
 email: rezashirkavand1997@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://github.com/reza-shkv97/
 
 # Dark Mode (true/false/never)
 darkmode: True
@@ -107,9 +107,6 @@ content:
       - Gaming
       - Football (Soccer!)
       - Travel
-
-      Look at this cool image from Tar Lake, Iran.
-      ![Trees](reza-shkv97.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
