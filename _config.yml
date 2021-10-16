@@ -72,8 +72,7 @@ content:
       - layout: left
         title: Research Assistant, Medical Image Processing
         caption: 2019 - Present
-        quote: >
-          Supervisors: Prof Hamid R. Rabiee and Dr. Mohammad Hossein Rohban
+        quote: "Supervisors: Prof Hamid R. Rabiee and Dr. Mohammad Hossein Rohban"
         description: | # this will include new lines to allow paragraphs
           The research aims at the classification of visual biomarkers of dementia based on Fazekas Scale. The aforementioned biomarkers are Periventricular White Matter(PVWM) Changes and Deep White Matter (DWM) Changes.
 
@@ -100,8 +99,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Data Scientist
         caption: February 2020 - Present
-        quote: >
-          In-house, inter-related service offerings and help to provide an integrated solution to clients in shaping their strategy and communication.
+        quote: In-house, inter-related service offerings and help to provide an integrated solution to clients in shaping their strategy and communication.
         description: | # this will include new lines to allow paragraphs
             Developing Computer Vision and Natural Language Processing models in order to monitor, organize, and manage brands online reputation all in one platform.
 
