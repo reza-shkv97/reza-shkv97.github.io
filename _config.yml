@@ -49,28 +49,41 @@ additional_links:
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Reza Shirkavand and I'm a Software Engineering B.Sc. graduate from Sharif University of Technology. I am currently a Data Scientist at Netbina Advertising Agency.
-
   My Research Interests are Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and Optimization.
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Sharif University of Technology
+          link: www.sharif.edu
+          caption: 2015 - 2020
+          sub_title: B.Sc. Software Engineering
+          quote: >
+            Established in 1966, Sharif University of Technology is widely considered as the Iran's leading institution for science, technology, engineering, and mathematics (STEM) fields.
+          description: | # this will include new lines to allow paragraphs
+            Some passed and audited courses:
+            Artificial Intelligence, Machine Learning, Deep Learning, Statistical Learning
+            Modern Information Retrieval, Signals and Systems, Algorithmic Game Theory, Linear Algebra, Convex Optimization
+
+  - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Dementia Biomarkers Severity Classification
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: dementia-classification/Dementia-Severity-Classification
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/dementia-classification/Dementia-Severity-Classification
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          The research aims at the classification of visual biomarkers of dementia based on Fazekas Scale. The aforementioned biomarkers are Periventricular White Matter(PVWM) Changes and Deep White Matter (DWM) Changes.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,19 +98,6 @@ content:
           in-house, inter-related service offerings and help to provide an integrated solution to clients in shaping their strategy and communication.
         description: | # this will include new lines to allow paragraphs
             Developing Computer Vision and Natural Language Processing models in order to monitor, organize, and manage brands online reputation all in one platform.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Sharif University of Technology
-        link: www.sharif.edu
-        caption: 2015 - 2020
-        sub_title: B.Sc. Computer Science & Engineering
-        quote: >
-          Established in 1966, Sharif University of Technology is widely considered as the Iran's leading institution for science, technology, engineering, and mathematics (STEM) fields.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Sharif, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
