@@ -9,7 +9,6 @@ version: 2
 name: Reza Shirkavand
 title: Software Engineering Student at Sharif University of Technology, Tehran, Iran.
 email: rezashirkavand1997@gmail.com
-website: https://github.com/reza-shkv97/
 
 # Dark Mode (true/false/never)
 darkmode: True
@@ -91,7 +90,6 @@ content:
             icon: fab fa-github
             url: https://github.com/dementia-classification/Dementia-Severity-Classification
 
-
   - title: Related Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -108,7 +106,7 @@ content:
 
   - title: Teaching Experience
     layout: list
-    content:
+    content: |
       - layout: left
         title: Project Teaching Assistant, Operating Systems
         caption: September 2018 - January 2019
@@ -129,6 +127,33 @@ content:
         caption: September 2019 - January 2020
         description: Theoretical and practical knowledge in concepts of machine learning and statistical pattern recognition. Topics included regression, supervised learning, learning theory and reinforcement learning.
 
+  - title: Computer Skills
+    layout: list
+    content:
+      - layout: left
+        title: Programming Languages
+        description: Python, Java, C, Matlab
+
+      - layout: left
+        title: Libraries
+        description: Pytorch, Tensorflow, Scikit-Learn, Numpy, Django
+
+      - layout: left
+        title: Database
+        description: PostgreSQL
+
+  - title: Honours and Awards
+    layout: left
+    content:
+      - layout: left
+        title: Nationwide University Entrance Exam - Mathematics
+        caption: 2015
+        description: Ranked 14th among 181000 participants
+
+      - layout: left
+          title: Nationwide University Entrance Exam - Foreign Languages
+          caption: 2015
+          description: Ranked 15th among 7000 participants
 
   - title: A Little More About Me
     layout: text
@@ -138,6 +163,8 @@ content:
       - Gaming
       - Football (Soccer!)
       - Travel
+
+
 
 # Footer
 footer_show_references: true
