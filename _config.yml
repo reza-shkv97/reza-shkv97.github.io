@@ -67,23 +67,30 @@ content:
           Artificial Intelligence, Machine Learning, Deep Learning, Statistical Learning
           Modern Information Retrieval, Signals and Systems, Algorithmic Game Theory, Linear Algebra, Convex Optimization
 
-  - title: Research # Title for the section
+  - title: Research Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Research Assistant, Medical Image Processing
+        caption: 2019 - Present
+        quote: >
+          Supervisors: Prof Hamid R. Rabiee and Dr. Mohammad Hossein Rohban
+        description: | # this will include new lines to allow paragraphs
+          The research aims at the classification of visual biomarkers of dementia based on Fazekas Scale. The aforementioned biomarkers are Periventricular White Matter(PVWM) Changes and Deep White Matter (DWM) Changes.
+
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Dementia Biomarkers Severity Classification
-        # link_text: Project Website
+        title: ”Dementia Severity Clas- sification under Small Sample Size and Weak Supervision in Thick Slice MRI”
+        caption: R. Shirkavand, S. Farghadani, S. Ayromlou, M. S Tahaei, F.Pourakpour, B. Siahlou, Z. Kho- dakarami, M. H. Rohban, M. Fatehi, M. H. Rohban, H. R. Rabiee
+        link: https://arxiv.org/abs/2103.10056
+        link_text: Manuscript Preprint
         additional_links:
           - title: dementia-classification/Dementia-Severity-Classification
             icon: fab fa-github
             url: https://github.com/dementia-classification/Dementia-Severity-Classification
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          The research aims at the classification of visual biomarkers of dementia based on Fazekas Scale. The aforementioned biomarkers are Periventricular White Matter(PVWM) Changes and Deep White Matter (DWM) Changes.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
