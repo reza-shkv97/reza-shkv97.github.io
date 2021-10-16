@@ -102,9 +102,33 @@ content:
         sub_title: Senior Data Scientist
         caption: February 2020 - Present
         quote: >
-          in-house, inter-related service offerings and help to provide an integrated solution to clients in shaping their strategy and communication.
+          In-house, inter-related service offerings and help to provide an integrated solution to clients in shaping their strategy and communication.
         description: | # this will include new lines to allow paragraphs
             Developing Computer Vision and Natural Language Processing models in order to monitor, organize, and manage brands online reputation all in one platform.
+
+  - title: Teaching Experience
+    layout: list
+    content:
+      - layout: left
+        title: Project Teaching Assistant, Operating Systems
+        caption: September 2018 - January 2019
+        description: Practical experience with the central ideas of operating systems in the context of developing a real, working and simple kernel.
+
+      - layout: left
+        title: Project Teaching Assistant, Computer Networks
+        caption: February 2019 - July 2019
+        description: Practical experience in designing and developing network applications as well as implementing conventional network management and routing protocols.
+
+      - layout: left
+        title: Teaching Assistant, Artificial Intelligence
+        caption: September 2018 - January 2019, February 2019 - July 2019, September 2019 - January 2020
+        description: Attained to great proficiency in the fundamental concepts of artificial intelligence, including search algorithms, Bayesian Networks, classification, MDPs and reinforcement learning.
+
+      - layout: left
+        title: Teaching Assistant, Machine Learning
+        caption: September 2019 - January 2020
+        description: Theoretical and practical knowledge in concepts of machine learning and statistical pattern recognition. Topics included regression, supervised learning, learning theory and reinforcement learning.
+
 
   - title: A Little More About Me
     layout: text
