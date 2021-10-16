@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Reza Shirkavand and I'm a Software Engineering B.Sc. graduate from Sharif University of Technology. I am currently a Data Scientist at Netbina Advertising Agency.
+  My name is Reza Shirkavand and I am a Software Engineering B.Sc. graduate from Sharif University of Technology. I am currently a Data Scientist at Netbina Advertising Agency.
   My Research Interests are Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and Optimization.
 
 content:
@@ -59,10 +59,10 @@ content:
         link: www.sharif.edu
         caption: 2015 - 2020
         sub_title: B.Sc. Software Engineering
-        quote: >
-          Established in 1966, Sharif University of Technology is widely considered as the Iran's leading institution for science, technology, engineering, and mathematics (STEM) fields.
+        quote:
+          Established in 1966, Sharif University of Technology is widely considered as Iran's leading institution for science, technology, engineering, and mathematics (STEM) fields.
         description: | # this will include new lines to allow paragraphs
-          Some passed and audited courses:
+          Select passed and audited courses:
           Artificial Intelligence, Machine Learning, Deep Learning, Statistical Learning
           Modern Information Retrieval, Signals and Systems, Algorithmic Game Theory, Linear Algebra, Convex Optimization
 
@@ -87,6 +87,7 @@ content:
         link_text: Manuscript Preprint
         additional_links:
           - title: dementia-classification/Dementia-Severity-Classification
+            description: Github page for project
             icon: fab fa-github
             url: https://github.com/dementia-classification/Dementia-Severity-Classification
 
@@ -167,7 +168,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
