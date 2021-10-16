@@ -151,9 +151,9 @@ content:
         description: Ranked 14th among 181000 participants
 
       - layout: left
-          title: Nationwide University Entrance Exam - Foreign Languages
-          caption: 2015
-          description: Ranked 15th among 7000 participants
+        title: Nationwide University Entrance Exam - Foreign Languages
+        caption: 2015
+        description: Ranked 15th among 7000 participants
 
   - title: A Little More About Me
     layout: text
