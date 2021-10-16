@@ -106,7 +106,7 @@ content:
 
   - title: Teaching Experience
     layout: list
-    content: |
+    content:
       - layout: left
         title: Project Teaching Assistant, Operating Systems
         caption: September 2018 - January 2019
@@ -158,7 +158,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      A longside my interests in networks and software engineering some of my other interests and hobbies are:
       - Cycling
       - Gaming
       - Football (Soccer!)
