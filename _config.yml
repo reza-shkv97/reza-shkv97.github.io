@@ -31,7 +31,7 @@ linkedin_username: reza-shirkavand-3b508612b
 # Additional icon links
 additional_links:
 - title: google_scholar
-  icon: ai ai-google-scholar-square
+  icon: ai ai-google-scholar
   url: https://scholar.google.com/citations?user=uS4nCAMAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
