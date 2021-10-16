@@ -53,19 +53,19 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: Sharif University of Technology
-          link: www.sharif.edu
-          caption: 2015 - 2020
-          sub_title: B.Sc. Software Engineering
-          quote: >
-            Established in 1966, Sharif University of Technology is widely considered as the Iran's leading institution for science, technology, engineering, and mathematics (STEM) fields.
-          description: | # this will include new lines to allow paragraphs
-            Some passed and audited courses:
-            Artificial Intelligence, Machine Learning, Deep Learning, Statistical Learning
-            Modern Information Retrieval, Signals and Systems, Algorithmic Game Theory, Linear Algebra, Convex Optimization
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: left
+      title: Sharif University of Technology
+      link: www.sharif.edu
+      caption: 2015 - 2020
+      sub_title: B.Sc. Software Engineering
+      quote: >
+        Established in 1966, Sharif University of Technology is widely considered as the Iran's leading institution for science, technology, engineering, and mathematics (STEM) fields.
+      description: | # this will include new lines to allow paragraphs
+        Some passed and audited courses:
+        Artificial Intelligence, Machine Learning, Deep Learning, Statistical Learning
+        Modern Information Retrieval, Signals and Systems, Algorithmic Game Theory, Linear Algebra, Convex Optimization
 
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
