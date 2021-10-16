@@ -82,8 +82,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: ”Dementia Severity Clas- sification under Small Sample Size and Weak Supervision in Thick Slice MRI”
-        caption: R. Shirkavand, S. Farghadani, S. Ayromlou, M. S Tahaei, F.Pourakpour, B. Siahlou, Z. Kho- dakarami, M. H. Rohban, M. Fatehi, M. H. Rohban, H. R. Rabiee
+        title: ”Dementia Severity Classification under Small Sample Size and Weak Supervision in Thick Slice MRI”
+        caption: R. Shirkavand, S. Farghadani, S. Ayromlou, M. S Tahaei, F.Pourakpour, B. Siahlou, Z. Khodakarami, M. H. Rohban, M. Fatehi, M. H. Rohban, H. R. Rabiee
         link: https://arxiv.org/abs/2103.10056
         link_text: Manuscript Preprint
         additional_links:
@@ -92,7 +92,7 @@ content:
             url: https://github.com/dementia-classification/Dementia-Severity-Classification
 
 
-  - title: Experience # Title for the section
+  - title: Related Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
