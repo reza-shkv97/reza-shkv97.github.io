@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Reza Shirkavand
-title: Software Engineering Student at Sharif University of Technology, Tehran, Iran.
+title: Electrical & Computer Engineering Student at University of Pittsburgh, PA, USA.
 email: rezashirkavand1997@gmail.com
 
 # Dark Mode (true/false/never)
@@ -47,8 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Reza Shirkavand and I am a Software Engineering B.Sc. graduate from Sharif University of Technology. I am currently a Data Scientist at Netbina Advertising Agency.
-  My Research Interests are Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and Optimization.
+  My name is Reza Shirkavand and I am a MSc/Phd Student at the University of Pittsburgh. My Research Interests are Machine Learning, Deep Learning, Computer Vision, Medical Image Analysis, and Optimization.
 
 content:
   - title: Education # Title for the section
@@ -65,6 +64,16 @@ content:
           Select passed and audited courses:
           Artificial Intelligence, Machine Learning, Deep Learning, Statistical Learning
           Modern Information Retrieval, Signals and Systems, Algorithmic Game Theory, Linear Algebra, Convex Optimization
+      - layout: left
+        title: University of Pittsburgh
+        link: www.sharif.edu
+        caption: 2022 - present
+        sub_title: MSc/PhD Electrical & Computer Engineering
+        quote:
+          Founded by Hugh Henry Brackenridge as Pittsburgh Academy in 1787, the University of Pittsburgh (Pitt) is a public state-related research university in Pittsburgh, Pennsylvania.
+        description: | # this will include new lines to allow paragraphs
+          My supervisor is [Prof. Heng Huang](https://sites.pitt.edu/~heh45/index.html). My research interests are Machine Learning, Deep Learning, and optimization. I am also interested in the applications of computer vision to medical vision problems.
+
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -76,6 +85,14 @@ content:
           Supervisors: Prof Hamid R. Rabiee and Dr. Mohammad Hossein Rohban
         description: | # this will include new lines to allow paragraphs
           The research aims at the classification of visual biomarkers of dementia based on Fazekas Scale. The aforementioned biomarkers are Periventricular White Matter(PVWM) Changes and Deep White Matter (DWM) Changes.
+          
+      - layout: left
+        title: Research Assistant, Machine Learning
+        caption: 2022 - Present
+        quote: |
+          Supervisors: Prof Heng Huang
+        description: | # this will include new lines to allow paragraphs
+          My research aims at developing efficient unsupervised, semi-supervised and weakly supervised learnings algorithms for various applications.
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,7 +116,7 @@ content:
         link: https://www.netbina.com
         # link_text: boringcompany.com
         sub_title: Senior Data Scientist
-        caption: February 2020 - Present
+        caption: February 2020 - Dec 2021
         quote: In-house, inter-related service offerings and help to provide an integrated solution to clients in shaping their strategy and communication.
         description: | # this will include new lines to allow paragraphs
             Developing Computer Vision and Natural Language Processing models in order to monitor, organize, and manage brands online reputation all in one platform.
